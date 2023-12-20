@@ -40,4 +40,4 @@ jobs:
           app-name: 'nude-sample-api'
           slot-name: 'Production'
           package: '${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}/output'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6DE273463C8A418891BCE53C39E8955C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_39A8C18D13E54656BBFA6AD730E62BEA }}
